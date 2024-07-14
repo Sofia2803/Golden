@@ -1,0 +1,44 @@
+:root {
+    --font-family: "Montserrat", sans-serif;
+    --second-family: "RobotoSlab", sans-serif;
+    --font3: "Bilbo Swash Caps", sans-serif;
+
+    --brand-color:#fed136;
+    --second-color:#222;
+    --accent-color:#fff;
+  }
+
+
+  ul {
+list-style: none;
+
+  }
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 187%;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    text-align: center;
+    color:var(--second-color);
+}
+
+  .header-link {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 293%;
+    text-transform: uppercase;
+    text-align: center;
+color: var(--brand-color);
+}
+
+
+  
+  
